@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-TOKEN = "6840053832:AAF17AOSNpOrcFcYnwIlsSW26pm1Mcz5zpM"
+TOKEN = "tok"
 
 def gettoken():
     global TOKEN
